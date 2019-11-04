@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="principal_amount">Principal Amount</string>
+    <string name="principal">Principal</string>
+    <string name="interest">interest</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="hint_interest">hint_interest</string>
+    <string name="hint_years">hint_years</string>
+    <string name="calculate">Calculate</string>
+    <string name="hint_emi">hint_emi</string>
+    <string name="hint_interest_total">hint_interest_total</string>
+    <string name="interest_total">interest_total</string>
+    <string name="emi">emi</string>
+    <string name="person_name">Person Name</string>
+    <string name="display_person">Display Person</string>
+</resources>
